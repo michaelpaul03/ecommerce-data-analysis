@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11f2F2C5g22OB0Fl0g5Sq1Bx1CZwu4d7k?usp=sharing)
+
 # 📦 Ecommerce Data Analysis Case Study
 
 ## 📌 Overview
